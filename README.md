@@ -1,5 +1,8 @@
 # CARLA Pure Pursuit
 
+> Personal side project built to explore high-speed vehicle control in CARLA.
+
+
 ![CARLA Simulation](Pictures/CarlaUE4.gif)
 
 A lightweight Pure Pursuit controller built for the CARLA simulator — designed to stay sharp even when the vehicle mechanics get excited at high speeds.
