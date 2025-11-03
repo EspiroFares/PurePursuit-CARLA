@@ -1,0 +1,9 @@
+# Core simulator dependency
+carla>=0.9.14
+
+# Math and scientific utilities
+numpy>=1.20
+matplotlib>=3.5
+
+# System utilities
+tqdm>=4.60
